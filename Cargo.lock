@@ -1158,7 +1158,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "my-dioxus-for-web"
+name = "my-dioxus-playground"
 version = "0.1.0"
 dependencies = [
  "dioxus",
